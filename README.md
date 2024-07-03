@@ -1,11 +1,20 @@
-# Name der App
+# DishDash
 
-**(Optional) Füge hier einen kurzen, knackigen Slogan ein, um deine App zu bewerben.**
+**Schnell, frisch, zu dir nach Haus!**
 
-Beschreibe hier in ein paar Sätzen, was deine App bietet.
+## Über DishDash
+DishDash revolutioniert den Lebensmitteleinkauf mit einer benutzerfreundlichen Liefer-App, die es dir ermöglicht, frische Supermarktwaren direkt an deine Haustür liefern zu lassen. Ob du saftiges Fleisch, knackiges Gemüse oder deine Lieblingssnacks wünschst, DishDash macht es möglich. Diese App ist ideal für alle, die den Komfort eines schnellen und flexiblen Lebensmitteleinkaufs von zuhause aus schätzen.
 
-Für wen ist sie geeignet? Welches Problem löst sie? Was macht deine App anders / besser als andere Apps?
-Vermeide es, hier allzusehr in technische Details zu gehen.
+## Besonderheiten von DishDash
+### Integrierter Chatbot
+Ein Highlight von DishDash ist unser innovativer Chatbot. Anders als bei herkömmlichen Liefer-Apps, kannst du bei DishDash ein Bild von einem Gericht im Chat hochladen und Stichpunkte dazu schrieben, und unser Bot schlägt dir sofort passende Rezepte vor. So wird dein Einkauf nicht nur einfacher, sondern auch inspirierender. Dieses Feature unterstützt dich dabei, aus dem, was du dir wünscht, ein passendes Rezept zu zaubern.
+
+### Warum DishDash wählen?
+DishDash unterscheidet sich von anderen Lieferapps durch die nahtlose Integration von effizienter Logistik, frischen Produkten und benutzerfreundlicher Technologie. Wir bringen den Supermarkt zu dir – schnell, frisch und genau nach deinem Geschmack.
+
+## Mach den ersten Schritt zu einem einfacheren Lebensmitteleinkauf
+Lade DishDash herunter und erlebe, wie einfach und angenehm der Einkauf von Lebensmitteln sein kann. Verfügbar für Android und iOS.
+
 
 ## Geplantes Design
 Füge hier einige repräsentative Designs deiner App ein (z.B. aus Figma).
