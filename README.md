@@ -20,6 +20,8 @@ Lade DishDash herunter und erlebe, wie einfach und angenehm der Einkauf von Lebe
 Füge hier einige repräsentative Designs deiner App ein (z.B. aus Figma).
 Wenn deine App dann so weit ist, dass du echte Screenshots machen kannst, solltest du diese hier einsetzen.
 <p>
+  <img width="200" alt="Bildschirmfoto 2024-07-17 um 13 49 07" src="https://github.com/user-attachments/assets/e1cf99ff-7ada-4639-a351-57e82c060bae">
+
   <img width="200" alt="Bildschirmfoto 2024-07-03 um 11 11 15" src="https://github.com/SI-Classroom-Batch-013/ios-praxisprojekt-PascalAllekotte/assets/148057928/43aa29d6-01d7-4762-a008-439a926bbe56">
   <img width="200" alt="Bildschirmfoto 2024-07-03 um 11 11 35" src="https://github.com/SI-Classroom-Batch-013/ios-praxisprojekt-PascalAllekotte/assets/148057928/baea9f10-7ff9-42c1-a5c1-c831acc9db08">
   <img width="200" alt="Bildschirmfoto 2024-07-03 um 11 12 28" src="https://github.com/SI-Classroom-Batch-013/ios-praxisprojekt-PascalAllekotte/assets/148057928/739043b1-8a36-4f62-b7f8-221e689bbea5">
