@@ -16,16 +16,26 @@ DishDash unterscheidet sich von anderen Lieferapps durch die nahtlose Integratio
 Lade DishDash herunter und erlebe, wie einfach und angenehm der Einkauf von Lebensmitteln sein kann. Verfügbar für Android und iOS.
 
 
-## Geplantes Design
-Füge hier einige repräsentative Designs deiner App ein (z.B. aus Figma).
-Wenn deine App dann so weit ist, dass du echte Screenshots machen kannst, solltest du diese hier einsetzen.
-<p>
-  <img width="200" alt="Bildschirmfoto 2024-07-17 um 13 49 07" src="https://github.com/user-attachments/assets/e1cf99ff-7ada-4639-a351-57e82c060bae">
-<img width="200" alt="Bildschirmfoto 2024-07-17 um 14 13 54" src="https://github.com/user-attachments/assets/312894da-3a6d-4fe7-9ee2-5cfb82ec96cb">
-  <img width="200" alt="Bildschirmfoto 2024-07-03 um 11 11 35" src="https://github.com/SI-Classroom-Batch-013/ios-praxisprojekt-PascalAllekotte/assets/148057928/baea9f10-7ff9-42c1-a5c1-c831acc9db08">
-  <img width="200" alt="Bildschirmfoto 2024-07-03 um 11 12 28" src="https://github.com/SI-Classroom-Batch-013/ios-praxisprojekt-PascalAllekotte/assets/148057928/739043b1-8a36-4f62-b7f8-221e689bbea5">
-  <img width="200" alt="Bildschirmfoto 2024-07-03 um 11 12 51" src="https://github.com/SI-Classroom-Batch-013/ios-praxisprojekt-PascalAllekotte/assets/148057928/0f1d0260-f26f-49b6-986f-91a6569dc1e0">
-</p>
+## UI/UX
+<img width="250" alt="Bildschirmfoto 2024-08-26 um 14 16 06" src="https://github.com/user-attachments/assets/c84507ea-e27a-497f-9dea-3216832239d3">
+<img width="250" alt="Bildschirmfoto 2024-08-26 um 14 17 05" src="https://github.com/user-attachments/assets/2b032e74-1606-4e37-9a8f-6f4fc7ad6afa">
+<img width="250" alt="Bildschirmfoto 2024-08-26 um 14 17 54" src="https://github.com/user-attachments/assets/4bd81043-b29c-4eaa-bdf9-ab2795e82f0f">
+<img width="250" alt="Bildschirmfoto 2024-08-26 um 14 18 50" src="https://github.com/user-attachments/assets/52ddd253-8289-4f29-b2be-dd43aebc7280">
+<img width="250" alt="Bildschirmfoto 2024-08-26 um 14 19 52" src="https://github.com/user-attachments/assets/7a49b0d0-ea34-4f7a-a382-989f3d3bf237">
+<img width="250" alt="Bildschirmfoto 2024-08-26 um 14 20 52" src="https://github.com/user-attachments/assets/54d5903d-0f6c-4c76-9984-64fe997b7cf6">
+<img width="250" alt="Bildschirmfoto 2024-08-26 um 14 21 11" src="https://github.com/user-attachments/assets/c1a73859-9ffd-40af-853f-e46519173abf">
+<img width="250" alt="Bildschirmfoto 2024-08-26 um 14 21 32" src="https://github.com/user-attachments/assets/01ea725e-697f-4e06-aa6f-48004835b677">
+<img width="250" alt="Bildschirmfoto 2024-08-26 um 14 22 54" src="https://github.com/user-attachments/assets/3caf8028-62fa-494f-8646-8c3cb6a047ec">
+<img width="250" alt="Bildschirmfoto 2024-08-26 um 14 23 29" src="https://github.com/user-attachments/assets/d88b0b21-14fc-477f-b74d-36a58d827020">
+<img width="250" alt="Bildschirmfoto 2024-08-26 um 14 23 40" src="https://github.com/user-attachments/assets/750ffa75-173a-49f9-9311-29c163f21d51">
+
+
+
+
+
+
+
+
 
 
 
