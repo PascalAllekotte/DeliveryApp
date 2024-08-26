@@ -2,18 +2,18 @@
 
 **Schnell, frisch, zu dir nach Haus!**
 
-## Über DishDash
+## Über MeatNow
 DishDash revolutioniert den Lebensmitteleinkauf mit einer benutzerfreundlichen Liefer-App, die es dir ermöglicht, frische Supermarktwaren direkt an deine Haustür liefern zu lassen. Ob du saftiges Fleisch, knackiges Gemüse oder deine Lieblingssnacks wünschst, DishDash macht es möglich. Diese App ist ideal für alle, die den Komfort eines schnellen und flexiblen Lebensmitteleinkaufs von zuhause aus schätzen.
 
-## Besonderheiten von DishDash
-### Integrierter Chatbot
-Ein Highlight von DishDash ist unser innovativer Chatbot. Anders als bei herkömmlichen Liefer-Apps, kannst du bei DishDash ein Bild von einem Gericht im Chat hochladen und Stichpunkte dazu schrieben, und unser Bot schlägt dir sofort passende Rezepte vor. So wird dein Einkauf nicht nur einfacher, sondern auch inspirierender. Dieses Feature unterstützt dich dabei, aus dem, was du dir wünscht, ein passendes Rezept zu zaubern.
+## Besonderheiten von MeatNow
+### Rausfilter von Zutaten eines Gerichtes durch Bildanalyse
+Ein Highlight von MeatNow ist unsere Bildanalyse. Anders als bei herkömmlichen Liefer-Apps, kannst du bei MeatNow ein Bild von einem Gericht hochladen und Stichpunkte dazu schreiben, und unsere App schlägt dir sofort passende Zutaten vor. So wird dein Einkauf nicht nur einfacher, sondern auch inspirierender. Dieses Feature unterstützt dich dabei, aus dem, was du du möchtest schneller zu bekommen.
 
-### Warum DishDash wählen?
-DishDash unterscheidet sich von anderen Lieferapps durch die nahtlose Integration von effizienter Logistik, frischen Produkten und benutzerfreundlicher Technologie. Wir bringen den Supermarkt zu dir – schnell, frisch und genau nach deinem Geschmack.
+### Warum MeatNow wählen?
+MeatNow unterscheidet sich von anderen Lieferapps durch die nahtlose Integration von effizienter Logistik, frischen Produkten und benutzerfreundlicher Technologie. Wir bringen den Supermarkt zu dir – schnell, frisch und genau nach deinem Geschmack.
 
 ## Mach den ersten Schritt zu einem einfacheren Lebensmitteleinkauf
-Lade DishDash herunter und erlebe, wie einfach und angenehm der Einkauf von Lebensmitteln sein kann. Verfügbar für Android und iOS.
+Lade MeatNow herunter und erlebe, wie einfach und angenehm der Einkauf von Lebensmitteln sein kann. Verfügbar für iOS.
 
 
 ## UI/UX
@@ -39,29 +39,27 @@ Lade DishDash herunter und erlebe, wie einfach und angenehm der Einkauf von Lebe
 
 
 
-## Features
-Hier kommen alle geplanten Features der App rein mit dem Status, ob es bereits umgesetzt wurde.
+### Features
 
-- [ ] Feature 1
-- [ ] Feature 2
-- [ ] ...
+## Zutatenanalyse aus Bildern
+Beschreibung: Benutzer können ein Bild eines Gerichts hochladen, und die App analysiert das Bild mithilfe der OpenAI API, um die Zutaten zu erkennen. Diese werden dann in der App aufgelistet.
+
+## Produktvorschläge basierend auf Zutaten
+Beschreibung: Basierend auf den erkannten Zutaten schlägt die App passende Produkte vor, die direkt in den Warenkorb gelegt werden können. Diese Produkte werden aus der Firebase Firestore-Datenbank geladen.
 
 
 ## Technischer Aufbau
 
 #### Projektaufbau
-Eine kurze Beschreibung deiner Ordnerstruktur und Architektur (MVVM, Repositories?) um Außenstehenden zu helfen, sich in deinem Projekt zurecht zu finden.
-
+Das Projekt macht von der Software Architekture MVVM gebaucht und ist so strukturiert
 #### Datenspeicherung
-Welche Daten speicherst du? Wo und wie (Firebase, Core Data, etwas anderes)?
+Die APP speichert die Daten der Nutzer, welche sich registrieren und ihre Bestellungen oder Produkte die in den Favoriten hinzugefügt wurden.
 
 #### API Calls
-Welche APIs verwendest du?
+Es wird die Api von OPEN AI Benutzt.
+
 
 #### 3rd-Party Frameworks
-Verwendest du Frameworks, die nicht von dir stammen? Bspw. Swift Packages für Firebase, fertige SwiftUI-Views o.Ä.? Gib diese hier an.
+FireBase
 
-
-## Ausblick
-Beschreibe hier, wo die Reise nach deinem Praxisprojekt hin geht. Was möchtest du in Zukunft noch ergänzen? Erstelle auch hierzu Issues und verlinke sie, wie oben.
  
