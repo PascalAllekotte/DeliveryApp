@@ -1,20 +1,14 @@
-# MeetNow
+## Diese App ist noch in der Entwicklungsphase und aktuell noch nicht öffentlich zugänglich. 
 
+Ich arbeite daran, eine zweite App zu erstellen, die als flexibler Lieferapp-Baukasten dient. Mit dieser Verwaltungs-App wirst du zukünftig die Möglichkeit haben, deine eigene Liefer-App individuell und einfach anzupassen, um sie perfekt auf dein Geschäft abzustimmen. Ich danke dir für dein Verständnis und deine Geduld während dieser spannenden Weiterentwicklung!
+Der Api Code ist ein dummy und muss ausgewchselt werden.
 
-**Schnell, frisch, zu dir nach Haus!**
+## Lieferapp Vorlage
+Ich habe vor einen richtigen Lieferapp Baukasten daraus zu machen.
 
-## Über MeatNow
-DishDash revolutioniert den Lebensmitteleinkauf mit einer benutzerfreundlichen Liefer-App, die es dir ermöglicht, frische Supermarktwaren direkt an deine Haustür liefern zu lassen. Ob du saftiges Fleisch, knackiges Gemüse oder deine Lieblingssnacks wünschst, DishDash macht es möglich. Diese App ist ideal für alle, die den Komfort eines schnellen und flexiblen Lebensmitteleinkaufs von zuhause aus schätzen.
-
-## Besonderheiten von MeatNow
+## Besonderheiten von dieser App
 ### Rausfilter von Zutaten eines Gerichtes durch Bildanalyse
 Ein Highlight von MeatNow ist unsere Bildanalyse. Anders als bei herkömmlichen Liefer-Apps, kannst du bei MeatNow ein Bild von einem Gericht hochladen und Stichpunkte dazu schreiben, und unsere App schlägt dir sofort passende Zutaten vor. So wird dein Einkauf nicht nur einfacher, sondern auch inspirierender. Dieses Feature unterstützt dich dabei, aus dem, was du du möchtest schneller zu bekommen.
-
-### Warum MeatNow wählen?
-MeatNow unterscheidet sich von anderen Lieferapps durch die nahtlose Integration von effizienter Logistik, frischen Produkten und benutzerfreundlicher Technologie. Wir bringen den Supermarkt zu dir – schnell, frisch und genau nach deinem Geschmack.
-
-## Mach den ersten Schritt zu einem einfacheren Lebensmitteleinkauf
-Lade MeatNow herunter und erlebe, wie einfach und angenehm der Einkauf von Lebensmitteln sein kann. Verfügbar für iOS.
 
 
 ## UI/UX
