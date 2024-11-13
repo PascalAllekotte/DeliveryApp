@@ -1,4 +1,4 @@
-## Diese App ist noch in der Entwicklungsphase und aktuell noch nicht öffentlich zugänglich. 
+##  
 
 Ich arbeite daran, eine zweite App zu erstellen, die als flexibler Lieferapp-Baukasten dient. Mit dieser Verwaltungs-App wirst du zukünftig die Möglichkeit haben, deine eigene Liefer-App individuell und einfach anzupassen, um sie perfekt auf dein Geschäft abzustimmen. Ich danke dir für dein Verständnis und deine Geduld während dieser spannenden Weiterentwicklung!
 Der Api Code ist ein dummy und muss ausgewchselt werden.
